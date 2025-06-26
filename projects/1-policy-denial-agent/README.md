@@ -6,6 +6,9 @@ A retrieval-augmented generation (RAG) system that interprets individual medical
 
 ---
 
+![app screenshot](D:\GitHub\rag-portfolio\projects\1-policy-denial-agent\images\denial_analyzer.PNG)
+
+
 ##  Overview
 
 This app serves as the foundation of a broader healthcare-focused RAG portfolio. It couples fast semantic retrieval over indexed CMS coverage documents with a local or cloud-hosted LLM to generate natural-language rationale for claim denials and appeal logic.
