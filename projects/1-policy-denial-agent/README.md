@@ -6,7 +6,7 @@ A retrieval-augmented generation (RAG) system that interprets individual medical
 
 ---
 
-![app screenshot](D:\GitHub\rag-portfolio\projects\1-policy-denial-agent\images\denial_analyzer.PNG)
+![app screenshot](1-policy-denial-agent/images/denial_analyzer.PNG)
 
 
 ##  Overview
