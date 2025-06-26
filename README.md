@@ -44,10 +44,10 @@ README.md: use case + setup guide
 
 Setup (for local use)
 bash
-git clone https://github.com/yourname/rag-portfolio.git
+git clone https://github.com/udonsik/rag-portfolio.git
 cd projects/1-policy-denial-agent
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 
 License & Contact
-This work is open-sourced for educational and demonstration purposes. For inquiries, collaboration, or deployment support: [your.email@domain]
+This work is open-sourced for educational and demonstration purposes. For inquiries, collaboration, or deployment support: [udonsik@yahoo.com]
